@@ -1,1 +1,10 @@
 /* add CSS class and element and selectors here */
+ body {
+      background-color: lightblue;
+      font-size: 100%;
+      font-family:monotypecorsiva;
+      border: 1px dotted ;
+      text-transform: lowercase;
+      letter-spacing: 5px;
+      transition: rotate(-40)deg; }
+    
